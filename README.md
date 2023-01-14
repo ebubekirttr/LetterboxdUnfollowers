@@ -1,5 +1,5 @@
 # LetterboxdUnfollowers
-Find who unfollowed you on letterboxd.
+Find and unfollow the users who unfollowed you on letterboxd.
 
 1) You have to use Chrome or Chromium based browser to use this extension. Download the extension from this website and add it to your browser.
 https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn/
