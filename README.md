@@ -10,7 +10,13 @@ https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehp
 
 4) Then wait. The script will be collecting all your information. After the scrape finished clicked "Export data" and export as .XLSX file.
 
-5) After downloading the file open it on Excel or Google Sheets (My choice) and delete the duplicated ones. You can find who you followed or who doesn't follow you back on this file with extensions.
+5) After downloading the file open it on Excel or Google Sheets (My choice) and delete the duplicated ones. I seperated the followed and following ones in A and B column so i used this code in C1 "=unique( { A1:A; B1:B }, false, true )"
+
+6) Then copy all of the column and paste it to this website "https://capitalizemytitle.com/tools/column-to-comma-separated-list/#Settings" and add " (Quotation mark) to the prefix and suffix.
+
+7) Go to scraper again and create new sitemap that i added to this repostiry as #LetterboxdUnfollow but change the ###USERLINKs### area to your userlinks. 
+
+You are ready to go just start scraping and script will remove all of your unfollowers.
 
 Hope it works for you like it worked for me.
 I searched a lot of websites and i wasn't able to find anything about this situation so i came up with this. 
