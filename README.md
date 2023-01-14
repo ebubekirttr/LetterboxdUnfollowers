@@ -6,7 +6,7 @@ https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehp
 
 2) Go to your letterboxd page and open Inspect (Right Click>Inspect or you can use your keyboard according to your computer.) Then you will see the "Web Scraper" on one of the tabs. Click to the Create new sitemap button and "Import Sitemap".
 
-3) Insert the code i gave in the repository included in the file named "letterboxdUnfollowers.txt" and change "XYXUSERNAMEXYX" to your username. Then open the letterboxd profile of yours and click Scrape from Sitemap button. 
+3) Insert the code i gave in the repository included in the file named "letterboxdUnfollowers.txt" and change "###YOURUSERNAME###" to your username. Then open the letterboxd profile of yours and click Scrape from Sitemap button. 
 
 4) Then wait. The script will be collecting all your information. After the scrape finished clicked "Export data" and export as .XLSX file.
 
