@@ -1,0 +1,1 @@
+{"_id":"letterboxdUnfollow","startUrl":[###USERLINKs###"],"selectors":[{"id":"unfollow","parentSelectors":["_root"],"type":"SelectorElementClick","clickElementSelector":".-following span","clickElementUniquenessType":"uniqueText","clickType":"clickOnce","delay":2000,"discardInitialElements":"do-not-discard","multiple":true,"selector":".-following span"}]}
