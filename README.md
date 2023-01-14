@@ -10,7 +10,7 @@ https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehp
 
 4) Then wait. The script will be collecting all your information. After the scrape finished clicked "Export data" and export as .XLSX file.
 
-5) After downloading the file open it on Excel or Google Sheets (My choice) and delete the duplicated ones. I seperated the followed and following ones in A and B column so i used this code in C1 "=unique( { A1:A; B1:B }, false, true )"
+5) After downloading the file open it on Excel or Google Sheets (My choice) and use this code in random empty box "=unique( { D2:D}, false, true )". Now you have the profile links of the unfollowers.
 
 6) Then copy all of the column and paste it to this website "https://capitalizemytitle.com/tools/column-to-comma-separated-list/#Settings" and add " (Quotation mark) to the prefix and suffix.
 
