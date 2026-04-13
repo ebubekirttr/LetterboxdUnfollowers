@@ -1,7 +1,5 @@
 # 🎬 Letterboxd Unfollowers
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Projeyi%20Destekle-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ebubekirtatar)
-
 [![GitHub](https://img.shields.io/badge/GitHub-ebubekirttr-181717?style=for-the-badge&logo=github)](https://github.com/ebubekirttr/LetterboxdUnfollowers)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-ebubekirttr-00D735?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/ebubekirttr/)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
